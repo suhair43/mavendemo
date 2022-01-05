@@ -3,18 +3,5 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-    <display-name>Hello World Servlet</display-name>
-
-    <servlet>
-        <servlet-name>hello</servlet-name>
-        <servlet-class>com.geekcap.vmturbo.HelloWorldServlet</servlet-class>
-        <load-on-startup>1</load-on-startup>
-    </servlet>
-
-    <servlet-mapping>
-        <servlet-name>hello</servlet-name>
-        <url-pattern>/hello</url-pattern>
-    </servlet-mapping>
-
+  <display-name>Archetype Created Web Application</display-name>
 </web-app>
-
